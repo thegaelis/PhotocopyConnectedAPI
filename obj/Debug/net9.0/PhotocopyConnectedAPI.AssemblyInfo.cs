@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotocopyConnectedAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1f12536a4dbc7124dc84004f902021ee9481c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotocopyConnectedAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotocopyConnectedAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
