@@ -1,0 +1,8 @@
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.csproj.AssemblyReference.cache
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.AssemblyInfoInputs.cache
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.AssemblyInfo.cs
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.csproj.CoreCompileInputs.cache
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/thaihuynhquoc/Desktop/Working/WebProjects/BackEnd/PhotocopyConnectedAPI/obj/Debug/net9.0/PhotocopyConnectedAPI.MvcApplicationPartsAssemblyInfo.cache
